@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/72/a1/84/72a184aa7846cad0d5a82cf55dc3f406.jpg);
+     background-size:cover;
+     
+}
+.reg-card{
+    background-color: ;
+    height: 55vh;
+    width: 50%;
+    border-radius: 1%;
+    margin:100px auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.form-reg{
+margin-top: 1
+0%;
+}
+.my-input{
+    width: 50%;
+    margin: 5px auto ;
+}

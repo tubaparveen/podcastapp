@@ -1,0 +1,21 @@
+.my-card{
+    background-color:;
+    
+    width: 50%;
+    height: auto;
+    margin: 100px auto;
+    padding: 70px;
+    border-radius: 10px;
+    text-align: center;
+} 
+.my-input{
+    display:flex;
+    margin-top: 5px;
+
+}
+.btn-my{
+    margin-top: 5px;
+    width: 10%;
+    border-radius: 10px;
+    border: none;
+}
